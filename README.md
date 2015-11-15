@@ -3,11 +3,11 @@
 ####By Marvin Nikijuluw
 
 ##Description
-Helping Immigrants around the world to obtain the right info and help pertaining to their case without having to incurr expensive cost in the beginning
+Helping Immigrants around the world to obtain the right info and help pertaining to their case without having to incurr expensive resources when it's not neccessary 
 
 ##Setup
 
-Clone repository from GitHub.
+Clone repository from GitHub
 
 
 ##Technologies Used
