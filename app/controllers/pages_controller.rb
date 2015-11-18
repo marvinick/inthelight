@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def home
-  	@case = Case.new
-  		
+  	@stories = Story.all
+  	@story = Story.new
   end
 end

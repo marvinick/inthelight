@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  devise_for :users
+  
   root 'pages#home'
-
-  resources :cases
+  devise_for :users
+  resources :stories
 end
